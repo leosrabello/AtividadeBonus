@@ -1,6 +1,0 @@
-
-Title: Mona Lisa
-Artist: Leo da Vinci
-Location: Italy
-Artwork Type: Painting
-Year of release: 1500
